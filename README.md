@@ -71,7 +71,7 @@ Six stations were placed in suitable areas — three on east-facing slopes and t
 
 **Map output:**
 
-![Site Selection and Viewshed Analysis](Monitoring_stations.png)
+![Site Selection and Viewshed Analysis](monitoring_stations.png)
 
 ---
 
