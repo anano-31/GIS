@@ -86,4 +86,4 @@ Six stations were placed in suitable areas — three on east-facing slopes and t
 
 ## Notes
 
-The full project report (PDF) and ArcGIS project package are not included in this repository due to file size. Map layouts are exported as PNG in the `outputs/` folder.
+The full project report (PDF) and ArcGIS project package are not included in this repository due to file size. Map layouts are exported as PNG.
