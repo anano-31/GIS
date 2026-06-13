@@ -37,7 +37,7 @@ Derived terrain characteristics from the DEM and related them to land cover clas
 
 **Map output:**
 
-![Land Cover & Terrain — Klatovy](university_project_II/Land_cover.png)
+![Land Cover & Terrain — Klatovy](Land_cover.png)
 
 --
 
