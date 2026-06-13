@@ -37,7 +37,7 @@ Derived terrain characteristics from the DEM and related them to land cover clas
 
 **Map output:**
 
-![Land Cover & Terrain — Klatovy](outputs/part2_land_cover_terrain.png)
+![Land Cover & Terrain — Klatovy](Land_cover.png)
 
 --
 
@@ -71,7 +71,7 @@ Six stations were placed in suitable areas — three on east-facing slopes and t
 
 **Map output:**
 
-![Site Selection and Viewshed Analysis](outputs/part3_site_selection.png)
+![Site Selection and Viewshed Analysis](Monitoring_stations.png)
 
 ---
 
